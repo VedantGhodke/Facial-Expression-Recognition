@@ -1,5 +1,6 @@
-# Facial Expression Recognition Challenge
-The jupyter notebook available here showcase my approach to tackle the kaggle problem of [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge).
+# Facial Expression Recognition
+
+The Jupyter Notebook is available here that showcases my approach to tackle the Kaggle problem statement of [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge).
 Collect dataset from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 Trained model Weights -> [face_model.h5](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/face_model.h5)
 Trained model JSON -> [face_model.h5](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/face_model.json)
@@ -18,3 +19,4 @@ Trained model JSON -> [face_model.h5](https://github.com/piyush2896/Facial-Expre
 Run the code blocks in the [notebook](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/Facial-Expression-Recognition-Challenge.ipynb) in the order to see the result.
 
 Run the code [camera.py](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/camera.py) to see application in action
+
